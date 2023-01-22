@@ -38,7 +38,10 @@ This is challenge 9 for the UT Coding Bootcamp: README Generator
 > 
 > If you followed tutorials, include links to those here as well.
 
-Full-Stack Blog - [Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+Full-Stack Blog - [Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)  
+
+Inquirer - [main npm page](https://www.npmjs.com/package/inquirer)  
+ - Version used: [Inquirer v8.2.4](https://www.npmjs.com/package/inquirer/v/8.2.4)  
 
 ## License
 
