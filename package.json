@@ -1,7 +1,7 @@
 {
   "name": "static-site",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is challenge 9 for the UT Coding Bootcamp: README Generator",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,6 +9,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^6.3.1"
-  }
+    "inquirer": "^8.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AustinBQ02/c09-README-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AustinBQ02/c09-README-generator/issues"
+  },
+  "homepage": "https://github.com/AustinBQ02/c09-README-generator#readme"
 }
