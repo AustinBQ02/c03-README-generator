@@ -36,9 +36,10 @@ const promptUser = () => {
         message: 'What are the test instructions?',
       },
       {
-        type: 'input', // choose from list
+        type: 'list', // choose from list
         name: 'license',
         message: 'What license are you using?',
+        choices: ['MIT', 'GNU', 'GPL']
       },
       {
         type: 'input',
@@ -92,7 +93,7 @@ ${usage}
 
 Please see LICENSE file.
 
-${license}
+![${license}](https://img.shields.io/badge/license-${license}-blue.svg)
 
 ## Contributions
 
