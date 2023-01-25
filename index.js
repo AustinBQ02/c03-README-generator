@@ -71,6 +71,7 @@ const generateREADME = ({title, description, installation, usage, contribution, 
 - [Questions](#questions)
 
 ## Installation
+
 ${installation}
 
 ## Usage
@@ -103,7 +104,9 @@ ${tests}
 
 ## Questions?
 
+Find me on GitHub here: https://github.com/${github}
 
+Or send me an email: ${email}
 
 `;
 
