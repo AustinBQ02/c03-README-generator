@@ -38,7 +38,7 @@ const promptUser = () => {
       {
         type: 'input', // choose from list
         name: 'license',
-        message: 'What are the test instructions?',
+        message: 'What license are you using?',
       },
       {
         type: 'input',
@@ -113,8 +113,8 @@ Or send me an email: ${email}
 // TODO: Create a function to initialize app
 const init = () => {
     promptUser()
-    .then((answers) => writeFile('project-README.md', generateREADME(answers)))
-    .then(() => console.log('Wrote to project-README.md'))
+    .then((answers) => writeFile('README-demo.md', generateREADME(answers)))
+    .then(() => console.log('Wrote to README-demo.md'))
     .catch((err) => console.error(err));
 }
 

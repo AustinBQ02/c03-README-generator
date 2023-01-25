@@ -1,7 +1,7 @@
-# New Readme
+# README PROJECT
 
 ## Description
- make a new readme
+ to make readmes
 
 ## Table of Contents
 
@@ -15,11 +15,11 @@
 
 ## Installation
 
-you know it
+just click on things
 
 ## Usage
 
-whatever you want
+again, just clicky clicky
 
 
 ## Credits
@@ -35,19 +35,19 @@ whatever you want
 
 Please see LICENSE file.
 
-change this
+still fix this
 
 ## Contributions
 
-no, you can't
+no. just, no.
 
 ## Tests
 
-lol i didnt test
+lol tests
 
 ## Questions?
 
 Find me on GitHub here: https://github.com/austinbq02
 
-Or send me an email: mdsmith02@gmail.com
+Or send me an email: austinbq02
 
