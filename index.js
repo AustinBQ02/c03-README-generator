@@ -36,9 +36,10 @@ const promptUser = () => {
         message: 'What are the test instructions?',
       },
       {
-        type: 'input', // choose from list
+        type: 'list', // choose from list
         name: 'license',
-        message: 'What are the test instructions?',
+        message: 'What license are you using?',
+        choices: ['MIT', 'GNU', 'GPL']
       },
       {
         type: 'input',
@@ -92,7 +93,7 @@ ${usage}
 
 Please see LICENSE file.
 
-${license}
+![${license}](https://img.shields.io/badge/license-${license}-blue.svg)
 
 ## Contributions
 
@@ -113,8 +114,8 @@ Or send me an email: ${email}
 // TODO: Create a function to initialize app
 const init = () => {
     promptUser()
-    .then((answers) => writeFile('project-README.md', generateREADME(answers)))
-    .then(() => console.log('Wrote to project-README.md'))
+    .then((answers) => writeFile('README-demo.md', generateREADME(answers)))
+    .then(() => console.log('Wrote to README-demo.md'))
     .catch((err) => console.error(err));
 }
 
