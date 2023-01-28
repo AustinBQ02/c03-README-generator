@@ -1,14 +1,12 @@
 # c09-README-generator
-This is challenge 9 for the UT Coding Bootcamp: README Generator
+This is challenge 9 for the UT Coding Bootcamp - **Node.js Challenge**: Professional README Generator
 
 ## Description
 
-> Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:  
->   
-> - What was your motivation?  
-> - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")  
-> - What problem does it solve?  
-> - What did you learn?  
+The goal of this project is to gain practical experience using Node.js and Inquirer in order to build an app that will generate professional looking README files based on user input. Quality README files are crucial to both smooth collaboration with others in the futre and properly crediting existing contributions.
+
+
+More details on the project are here: [Challenge Details & Acceptance Criteria](https://github.com/AustinBQ02/c09-README-generator/issues/4) 
 
 ## Table of Contents
 
@@ -39,6 +37,8 @@ Full-Stack Blog - [Professional README Guide](https://coding-boot-camp.github.io
 
 Inquirer - [main npm page](https://www.npmjs.com/package/inquirer)  
  - Version used: [Inquirer v8.2.4](https://www.npmjs.com/package/inquirer/v/8.2.4)  
+
+Starter Code - https://github.com/coding-boot-camp/potential-enigma
 
 ## License
 
