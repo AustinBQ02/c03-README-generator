@@ -3,7 +3,7 @@ This is challenge 9 for the UT Coding Bootcamp - **Node.js Challenge**: Professi
 
 ## Description
 
-The goal of this project is to gain practical experience using Node.js and Inquirer in order to build an app that will generate professional looking README files based on user input. Quality README files are crucial to both smooth collaboration with others in the futre and properly crediting existing contributions.
+The goal of this project is to gain practical experience using Node.js and Inquirer in order to build an app that will generate professional looking README files based on user input. Quality README files are crucial to both smooth collaboration with others in the future and properly crediting existing contributions.
 
 
 More details on the project are here: [Challenge Details & Acceptance Criteria](https://github.com/AustinBQ02/c09-README-generator/issues/4) 
